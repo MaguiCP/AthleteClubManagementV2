@@ -1,8 +1,8 @@
 # Athlete Club Management System V2 (Sistema de Gestão de Clube de Atletas V2)
 
-### Português
+## Português
 
-## Descrição
+### Descrição
 
 Este projeto é a segunda versão de um sistema de gestão de clube de atletas. Permite gerir modalidades, atletas, equipas e competições internas e externas. O sistema possibilita a adição de novas modalidades, registo de atletas, criação de equipas, e gestão de competições, além de listar competições e calcular custos associados.
 
@@ -31,9 +31,9 @@ Além disso, o código agora divide as competições em internas e externas:
 - **Competição Interna:** Representa competições realizadas dentro do clube, permitindo a adição de equipas internas e fornecendo uma descrição detalhada das competições.
 - **Competição Externa:** Representa competições realizadas fora do clube, incluindo a gestão de equipas externas e a associação de equipas internas, além de calcular os custos de inscrição.
 
-### English
+## English
 
-## Description
+### Description
 
 This project is the second version of an athlete club management system. It allows managing sports, athletes, teams, and internal and external competitions. The system enables adding new sports, registering athletes, creating teams, and managing competitions, in addition to listing competitions and calculating associated costs.
 
